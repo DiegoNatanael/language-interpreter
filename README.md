@@ -52,11 +52,11 @@ To get the tiny language interpreter running locally:
 
 1.  Clone this repository to your local machine:
     ```sh
-    git clone [https://github.com/](https://github.com/)[YOUR_GITHUB_USERNAME]/tiny-language-interpreter.git
+    git clone https://github.com/DiegoNatanael/language-interpreter.git
     ```
 2.  Navigate into the project directory:
     ```sh
-    cd tiny-language-interpreter
+    cd language-interpreter
     ```
 
 ### Usage
